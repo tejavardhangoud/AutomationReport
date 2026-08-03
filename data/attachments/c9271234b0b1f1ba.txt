@@ -1,0 +1,1 @@
+[A11y] "Automation Exercise - All Products" — violations: 6, passes: 25 — saved to /Users/kalaltejavardhangoud/.jenkins/workspace/FrameWorkAutomation/accessibility-reports/a11y-1785738686150-ln2q70-automation-exercise-all-products-1785738728091.json

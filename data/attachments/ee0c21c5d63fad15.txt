@@ -1,0 +1,1 @@
+[A11y] "Automation Exercise" — violations: 6, passes: 27 — saved to /Users/kalaltejavardhangoud/.jenkins/workspace/FrameWorkAutomation/accessibility-reports/a11y-1785738686150-ln2q70-automation-exercise-1785738711227.json

@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Fetches products from API and validates the first three product names and prices against the UI.","7323","Validate the Get All Product List","chromium","2026-08-03","passed","2026-08-03","","AutomationExerciseDemo.spec.js","",""
+"Fetches brands from API and validates the first three brands against the UI brand list.","7525","Validate the Get All The Brands","chromium","2026-08-03","passed","2026-08-03","","AutomationExerciseDemo.spec.js","",""
+"Creates a user via API, validates UI login, deletes user via API, and verifies login failure after deletion.","33090","Create account with custom data","chromium","2026-08-03","passed","2026-08-03","","AutomationExerciseDemo.spec.js","",""
